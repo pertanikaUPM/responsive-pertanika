@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+	<defs>
+		<image  width="1920" height="1080" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4AQMAAADSHVMAAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAARNJREFUeJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCnAfjlAAGZJYkPAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 30px;fill: #434343;font-weight: 700;font-family: "Archivo-Bold", "Archivo";text-anchor: middle } 
+		.shp1 { fill: #9c191b;stroke: #3f3f3f;paint-order:stroke fill markers;stroke-width: 6 } 
+		.txt2 { font-size: 24px;fill: #faf8f8;font-weight: 400;font-family: "Archivo-Regular", "Archivo";text-anchor: middle } 
+		.txt3 { font-size: 30px;fill: #faf8f8;font-weight: 700;font-family: "Archivo-Bold", "Archivo";text-anchor: middle } 
+		.shp4 { fill: #ff9e00;stroke: #3f3f3f;paint-order:stroke fill markers;stroke-width: 6 } 
+		.txt5 { font-size: 24px;fill: #000000;font-weight: 600;font-family: "Archivo-SemiBold", "Archivo";text-anchor: middle } 
+		.shp6 { fill: #b9375e;stroke: #3f3f3f;paint-order:stroke fill markers;stroke-width: 6 } 
+		.shp7 { fill: #0096c7;stroke: #3f3f3f;paint-order:stroke fill markers;stroke-width: 6 } 
+		.shp8 { fill: #6cb285;stroke: #3f3f3f;paint-order:stroke fill markers;stroke-width: 6 } 
+		.shp9 { fill: #6d435a;stroke: #3f3f3f;paint-order:stroke fill markers;stroke-width: 6 } 
+		.shp10 { fill: #434343 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<text id="PERTANIKA EDITORIAL OFFICE " style="transform: matrix(1,0,0,1,959,45)" >
+		<tspan x="0" y="0" class="txt0">PERTANIKA EDITORIAL OFFICE</tspan>
+	</text>
+	<path id="cee" class="shp1" d="M779 78L1140 78L1140 207L779 207L779 78Z" />
+	<text id="Chief Executive Editor (CEE) Hea" style="transform: matrix(1,0,0,1,960,118)" >
+		<tspan x="0" y="0" class="txt2">Chief Executive Editor (CEE)</tspan>
+		<tspan x="0" y="26.88" class="txt2">Head, Journal Unit</tspan>
+		<tspan x="0" y="60.48" class="txt3">Dr. Mohammad Jawaid</tspan>
+	</text>
+	<path id="regular" class="shp4" d="M347 271L612 271L612 313L347 313L347 271Z" />
+	<text id="REGULAR ISSUE  " style="transform: matrix(1,0,0,1,480,300)" >
+		<tspan x="0" y="0" class="txt5">REGULAR ISSUE</tspan>
+	</text>
+	<path id="special" class="shp4" d="M1307 272L1572 272L1572 314L1307 314L1307 272Z" />
+	<text id="SPECIAL ISSUE  " style="transform: matrix(1,0,0,1,1439,300)" >
+		<tspan x="0" y="0" class="txt5">SPECIAL ISSUE</tspan>
+	</text>
+	<path id="jo1" class="shp6" d="M9 425L271.4 425L271.4 572.14L9 572.14L9 425Z" />
+	<text id="Journal Officer - JTAS Tee Syin " style="transform: matrix(1,0,0,1,139,461)" >
+		<tspan x="0" y="0" class="txt2">Journal Officer - JTAS</tspan>
+		<tspan x="0" y="33.6" class="txt3">Tee Syin Yee</tspan>
+		<tspan x="0" y="60.48" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="87.36" class="txt2">(N41)</tspan>
+	</text>
+	<path id="jo2" class="shp6" d="M281.77 424L544.16 424L544.16 572.57L281.77 572.57L281.77 424Z" />
+	<text id="Journal Officer - JST Kanagamala" style="transform: matrix(1,0,0,1,415,461)" >
+		<tspan x="0" y="0" class="txt2">Journal Officer - JST</tspan>
+		<tspan x="0" y="33.6" class="txt3">Kanagamalar</tspan>
+		<tspan x="0" y="60.48" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="87.36" class="txt2">(N41)</tspan>
+	</text>
+	<path id="jo3" class="shp6" d="M554.53 424L816.93 424L816.93 572.57L554.53 572.57L554.53 424Z" />
+	<text id="Journal Officer - JSSH Ummi Fair copy" style="transform: matrix(1,0,0,1,686,460)" >
+		<tspan x="0" y="0" class="txt2">Journal Officer - JSSH</tspan>
+		<tspan x="0" y="33.6" class="txt3">Ummi Fairuz</tspan>
+		<tspan x="0" y="60.48" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="87.36" class="txt2">(N41)</tspan>
+	</text>
+	<path id="jo4" class="shp6" d="M827.3 424L1089.7 424L1089.7 572L827.3 572L827.3 424Z" />
+	<text id="Journal Officer - JSSH Siti Zuha" style="transform: matrix(1,0,0,1,960,459)" >
+		<tspan x="0" y="0" class="txt2">Journal Officer - JSSH</tspan>
+		<tspan x="0" y="33.6" class="txt3">Siti Zuhaila</tspan>
+		<tspan x="0" y="60.48" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="87.36" class="txt2">(PE3)</tspan>
+	</text>
+	<path id="ajo1" class="shp7" d="M1099.07 425L1361.47 425L1361.47 572L1099.07 572L1099.07 425Z" />
+	<text id="Zulinaardawati Assistant  Public" style="transform: matrix(1,0,0,1,1231,466)" >
+		<tspan x="0" y="0" class="txt3">Zulinaardawati</tspan>
+		<tspan x="0" y="26.88" class="txt2">Assistant </tspan>
+		<tspan x="0" y="53.76" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="80.64" class="txt2">(N29)</tspan>
+	</text>
+	<path id="ajo2" class="shp7" d="M1371.84 424L1634.23 424L1634.23 572.14L1371.84 572.14L1371.84 424Z" />
+	<text id="Siti Juridah Assistant Publicati" style="transform: matrix(1,0,0,1,1502,466)" >
+		<tspan x="0" y="0" class="txt3">Siti Juridah</tspan>
+		<tspan x="0" y="26.88" class="txt2">Assistant</tspan>
+		<tspan x="0" y="53.76" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="80.64" class="txt2">(N32)</tspan>
+	</text>
+	<path id="ajo3" class="shp7" d="M1644.6 422L1907 422L1907 572.14L1644.6 572.14L1644.6 422Z" />
+	<text id="Ku Ida Mastura Assistant Publica" style="transform: matrix(1,0,0,1,1777,466)" >
+		<tspan x="0" y="0" class="txt3">Ku Ida Mastura</tspan>
+		<tspan x="0" y="26.88" class="txt2">Assistant</tspan>
+		<tspan x="0" y="53.76" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="80.64" class="txt2">(N22)</tspan>
+	</text>
+	<path id="ppress1" class="shp8" d="M350 655L609 655L609 813L350 813L350 655Z" />
+	<text id="Pre-press Officer Nur Farrah Dil" style="transform: matrix(1,0,0,1,480,697)" >
+		<tspan x="0" y="0" class="txt2">Pre-press Officer</tspan>
+		<tspan x="0" y="33.6" class="txt3">Nur Farrah Dila</tspan>
+		<tspan x="0" y="60.48" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="87.36" class="txt2">(N41)</tspan>
+	</text>
+	<path id="ppress2" class="shp8" d="M1310 659L1570 659L1570 813L1310 813L1310 659Z" />
+	<text id="Pre-press Officer Wong Lih Jiun " style="transform: matrix(1,0,0,1,1440,699)" >
+		<tspan x="0" y="0" class="txt2">Pre-press Officer</tspan>
+		<tspan x="0" y="33.6" class="txt3">Wong Lih Jiun</tspan>
+		<tspan x="0" y="60.48" class="txt2">Publication Officer</tspan>
+		<tspan x="0" y="87.36" class="txt2">(N41)</tspan>
+	</text>
+	<path id="it" class="shp9" d="M831 902L1089 902L1089 1053L831 1053L831 902Z" />
+	<text id="Web &amp; IT Officer Munir Hayat Exe" style="transform: matrix(1,0,0,1,961,939)" >
+		<tspan x="0" y="0" class="txt2">Web &amp; IT Officer</tspan>
+		<tspan x="0" y="33.6" class="txt3">Munir Hayat</tspan>
+		<tspan x="0" y="60.48" class="txt2">Executive Officer</tspan>
+		<tspan x="0" y="87.36" class="txt2">(PE3)</tspan>
+	</text>
+	<g id="Link">
+		<path id="Shape 5" class="shp10" d="M957.5 854.22L962.5 854.22L962.5 900.22L957.5 900.22L957.5 854.22Z" />
+		<path id="Shape 5" class="shp10" d="M130.5 575.84L135.5 575.84L135.5 609.22L130.5 609.22L130.5 575.84Z" />
+		<path id="Shape 5" class="shp10" d="M1776.5 575.84L1781.5 575.84L1781.5 609.22L1776.5 609.22L1776.5 575.84Z" />
+		<path id="Shape 5" class="shp10" d="M133 609.72L133 604.72L1779 605.72L1779 610.72L133 609.72Z" />
+		<path id="Shape 5" class="shp10" d="M1437.5 610.22L1442.5 610.22L1442.5 661.22L1437.5 661.22L1437.5 610.22Z" />
+		<path id="Shape 5" class="shp10" d="M477.5 608.22L482.5 608.22L482.5 651.22L477.5 651.22L477.5 608.22Z" />
+		<path id="Shape 5" class="shp10" d="M414.5 575.84L419.5 575.84L419.5 603.22L414.5 603.22L414.5 575.84Z" />
+		<path id="Shape 5" class="shp10" d="M683.5 575.84L688.5 575.84L688.5 609.22L683.5 609.22L683.5 575.84Z" />
+		<path id="Shape 5" class="shp10" d="M957.5 575.84L962.5 575.84L962.5 604.22L957.5 604.22L957.5 575.84Z" />
+		<path id="Shape 5" class="shp10" d="M1224.5 575.84L1229.5 575.84L1229.5 605.22L1224.5 605.22L1224.5 575.84Z" />
+		<path id="Shape 5" class="shp10" d="M1500.5 575.84L1505.5 575.84L1505.5 606.22L1500.5 606.22L1500.5 575.84Z" />
+		<path id="Shape 1" class="shp10" d="M957.5 207.22L962.5 207.22L962.5 353L957.5 353L957.5 207.22Z" />
+		<path id="Shape 5" class="shp10" d="M130.5 351.22L135.5 351.22L135.5 422.22L130.5 422.22L130.5 351.22Z" />
+		<path id="Shape 5" class="shp10" d="M414.5 354.22L419.5 354.22L419.5 424.22L414.5 424.22L414.5 354.22Z" />
+		<path id="Shape 5" class="shp10" d="M1224.5 355.22L1229.5 355.22L1229.5 420.22L1224.5 420.22L1224.5 355.22Z" />
+		<path id="Shape 5" class="shp10" d="M1776.5 353.22L1781.5 353.22L1781.5 418.22L1776.5 418.22L1776.5 353.22Z" />
+		<path id="Shape 5" class="shp10" d="M1500.5 356.22L1505.5 356.22L1505.5 422.22L1500.5 422.22L1500.5 356.22Z" />
+		<path id="Shape 5" class="shp10" d="M686.02 388.72L685.98 383.72L959.98 381.72L960.02 386.72L686.02 388.72Z" />
+		<path id="Shape 5" class="shp10" d="M957.5 384.22L962.5 384.22L962.5 419.22L957.5 419.22L957.5 384.22Z" />
+		<path id="Shape 5" class="shp10" d="M683.5 386.22L688.5 386.22L688.5 421.22L683.5 421.22L683.5 386.22Z" />
+		<path id="Shape 5" class="shp10" d="M816.5 355.22L821.5 355.22L821.5 383.22L816.5 383.22L816.5 355.22Z" />
+		<path id="Shape 5" class="shp10" d="M477.5 813L482.5 813L482.5 859.22L477.5 859.22L477.5 813Z" />
+		<path id="Shape 5" class="shp10" d="M1437.5 813L1442.5 813L1442.5 855.22L1437.5 855.22L1437.5 813Z" />
+		<path id="Shape 5" class="shp10" d="M480.01 859.72L479.99 854.72L1439.99 850.72L1440.01 855.72L480.01 859.72Z" />
+		<path id="Shape 2" class="shp10" d="M130 356.72L130 351.72L1781 351.72L1781 356.72L130 356.72Z" />
+		<path id="Shape 3" class="shp10" d="M477.5 311.22L482.5 311.22L482.5 352.22L477.5 352.22L477.5 311.22Z" />
+		<path id="Shape 4" class="shp10" d="M1437.5 316.22L1442.5 316.22L1442.5 352.22L1437.5 352.22L1437.5 316.22Z" />
+	</g>
+</svg>
