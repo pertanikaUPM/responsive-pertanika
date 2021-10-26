@@ -1,0 +1,52 @@
+.journal-cover-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.journal-cover-image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.journal-cover-body {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.journal-cover-text {
+    font-weight: bolder;
+    font-size: x-large;
+    color: azure;
+}
+
+.journal-cover-container:hover .journal-cover-image {
+    opacity: 0;
+}
+
+.journal-cover-container:hover .journal-cover-body {
+    opacity: 1;
+}
+
+.jtas-bg {
+    background-color: #204327;
+}
+
+.jst-bg {
+    background-color: #093164;
+}
+
+.jssh-bg {
+    background-color: #412c1d;
+}
